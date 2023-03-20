@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-/*
-	DO NOT change this file.
-*/
-
 int   cmpr_int(void*, void*);
 int   cmpr_float(void*,void*);
 void  print_int(void*);
