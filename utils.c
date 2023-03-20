@@ -1,17 +1,6 @@
 #include "utils.h"
 #include "stdlib.h"
 
-//I pledge my honor that I have a bided by the Stevens honor system. 
-// - Robertson Romero
-
-
-/*
-	You are free to use any data type you like in this file.
-    However, other than the five functions declared in "utils.h",
-    DO NOT create any other functions.
-	
-*/
-
 int cmpr_int(void* a, void* b) {
 	int a1 = *((int*)a);
 	int b1 = *((int*)b);
