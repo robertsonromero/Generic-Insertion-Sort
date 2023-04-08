@@ -1,9 +1,5 @@
 #include "insertion.h"
 
-//I pledge my honor that I have a bided by the Stevens honor system. 
-// - Robertson Romero
-
-
 void swap(char* a, char* b, size_t width){
 	char* _a = (char*)a;
 	char* _b = (char*)b;
